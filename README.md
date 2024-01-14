@@ -1,4 +1,4 @@
-# Projeto Pizza
+# Projeto Urna-Eletrônica
 
 ## Índice
 - <a href="#layout">Layout</a>
